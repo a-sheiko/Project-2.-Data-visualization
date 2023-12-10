@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 
 # Define data.
-x_values = list(range(5001))
+x_values = list(range(5002))
 cubes = [x**3 for x in x_values]
 
 # Make plot.
